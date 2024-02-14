@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Ben
 ✨ I'm a Full Stack Developer from Argentina.<br>
 ✨ I like logical challenges and the search for dynamism and aesthetics.<br>
+✨ You can check out my work in my portfolio: bensznaider-portfolio.vercel.app
 📫 How to reach me: bensznaider@yahoo.com.ar, www.linkedin.com/in/bensznaider
 
 ### Technologies and tools
